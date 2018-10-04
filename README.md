@@ -1,2 +1,2 @@
-# FinalYearProject
-An ongoing endeavour, to be implemented as my final year project. Currently researching about existing literature on the topic.
+# Predicting Optimum Source for Blood Donation using Supervised Learning Methods
+Allows receiver to identify optimal sources of blood closest to their location, on the basis of parameters like blood group, proximity, age, past medical conditions, working hours, traffic conditions etc. An ongoing endeavour, to be implemented as my final year project. Currently researching about existing literature on the topic. 
